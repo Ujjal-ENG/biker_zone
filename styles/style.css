@@ -1,0 +1,11 @@
+.btn-pos {
+  position: absolute;
+  left: 0;
+  bottom: -40px;
+  background-color: red;
+  opacity: 0.3;
+}
+
+.btn-pos:hover {
+  opacity: 1;
+}
